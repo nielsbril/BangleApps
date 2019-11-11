@@ -1,4 +1,15 @@
 [
+  { "id": "shd",
+    "name": "Studio Hyperdrive",
+    "icon": "shd.png",
+    "description": "Just saying hello!",
+    "tags": "",
+    "type":"app",
+    "storage": [
+      {"name":"+shd","url":"shd.json"},
+      {"name":"-shd","url":"shd.js"},
+    ]
+  },
   { "id": "boot",
     "name": "Bootloader",
     "icon": "bootloader.png",
