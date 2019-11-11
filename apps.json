@@ -7,7 +7,7 @@
     "type":"app",
     "storage": [
       {"name":"+shd","url":"shd.json"},
-      {"name":"-shd","url":"shd.js"},
+      {"name":"-shd","url":"shd.js"}
     ]
   },
   { "id": "boot",
